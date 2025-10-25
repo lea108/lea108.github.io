@@ -18603,14 +18603,14 @@ case 2:return B.tc
 case 1:return B.tb
 case 3:return B.Ds
 case 4:return B.td}},
-a5I(a){var s=0,r=A.M(t.y),q,p,o,n,m,l
-var $async$a5I=A.N(function(b,c){if(b===1)return A.J(c,r)
+a5I(a,b){var s=0,r=A.M(t.y),q,p,o,n,m,l
+var $async$a5I=A.N(function(c,d){if(c===1)return A.J(d,r)
 while(true)switch(s){case 0:o=$.acW()
 n=A.amJ(B.yu)
 m=B.d.bb(a,"http:")||B.d.bb(a,"https:")
 l=!0
 if(n!==B.tb)if(n!==B.tc){p=m&&n===B.ta
-l=p}q=o.Yi(a,!0,!0,B.BI,n===B.td,l,l,null)
+l=p}q=o.Yi(a,!0,!0,B.BI,n===B.td,l,l,b)
 s=1
 break
 case 1:return A.K(q,r)}})
@@ -32300,7 +32300,7 @@ return!0}if(B.bt.i(0,s)){$.a62().ht(!1)
 return!0}if(B.fB.i(0,s)){$.a62().ht(!0)
 return!0}return!1}}
 A.Ym.prototype={
-$0(){A.a5I("https://github.com/lea108/flame_splashscreen/")},
+$0(){A.a5I("https://github.com/lea108/flame_splashscreen/","_self")},
 $S:0}
 A.Yo.prototype={
 $0(){var s=this.a
