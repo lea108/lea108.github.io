@@ -1,3 +1,4 @@
 # lea108 GH page
 
-Hello world
+[flame splashscreen hackaton 2025](flame_splashscreen/)
+[Flutter & Friends 2026 hackaton game](ff_hackaton_game/)
